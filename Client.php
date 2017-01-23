@@ -7,12 +7,10 @@ class Client extends User {
 		parent::setEmail($email);
 		parent::setCreateAt($createAt);
 	}
-
+	
 	public function buy($client){
 	
 	}
-
 }
-
 ?>
 
