@@ -16,18 +16,18 @@ class User {
 
 	}
 
-	public function getemail(){
+	public function getEmail(){
 		return $this->email;
 	} 
-	public function setemail($email){
+	public function setEmail($email){
 		$this->email = $email;
 
 	}
 
-	public function getcreateAt(){
+	public function getCreateAt(){
 		return $this->createAt;
 	} 
-	public function setcreateAt($createAt){
+	public function setCreateAt($createAt){
 		$this->createAt = $createAt;
 
 	}
