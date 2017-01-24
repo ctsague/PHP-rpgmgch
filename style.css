@@ -1,7 +1,5 @@
-th, td, tr {
+table, th, td, tr {
 	border: solid black 1px;
+  	border-collapse: collapse; 
 }
 
-table {
-  border-collapse: collapse; 
-}

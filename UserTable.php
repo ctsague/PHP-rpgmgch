@@ -20,7 +20,7 @@
 			<td><?=$client->getEmail(); ?></td>
 			<td><?=$client->getCreateAt(); ?></td>
 		</tr>
-		<?php endforeach ?>	
+		<?php endforeach; ?>	
 	</table>	
 </body>
 </html>

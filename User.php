@@ -24,6 +24,4 @@ class User {
 	}
 }
 
-// $myuser = new User();
-// echo $myuser->getemail();
 ?>
